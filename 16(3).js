@@ -7,4 +7,4 @@ var factorsOfaNumber= (number) => {
         }
     }
 }
-factorsOfaNumber(120)
+factorsOfaNumber(130)
